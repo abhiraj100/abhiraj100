@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhiraj Yadav</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-<img align="right" width="350" height="400" alt="programming img" src="/programming img1.jpg">
+<img align="right" width="300" height="300" alt="programming img" src="/programming img1.jpg">
 
 <p align="left">
   <img
