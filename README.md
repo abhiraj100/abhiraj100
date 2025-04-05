@@ -16,7 +16,7 @@
 - ⚛️ Full Stack Developer specializing in **React, Node.js, Express, MongoDB, and MySQL**
 - 💻 Passionate about building scalable web  applications & interactive UIs and exploring cloud & DevOps tools.
 - 🚀 Sharing **project videos on LinkedIn** & constantly learning new technologies
-- 🔐 Cybersecurity Enthusiast | Love solving tech challenges
+- 🔐 Love solving tech challenges | Love to learn new technologies
 - 🌍 Looking for collaboration? **Let's connect!** 🚀
 
 ---
